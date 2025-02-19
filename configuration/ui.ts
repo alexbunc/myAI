@@ -1,6 +1,6 @@
 import { AI_NAME, OWNER_NAME } from "@/configuration/identity";
 
-export const CHAT_HEADER: string = `Welcome to your Real Estate & Energy Resource!`;
+export const CHAT_HEADER: string = `Welcome to your Real Estate Trend Resource`;
 export const MESSAGE_PLACEHOLDER: string = `[MESSAGE PLACEHOLDER]`;
 export const FOOTER_MESSAGE: string = `Copyright @ Alex Binnie 2025`;
 export const CLEAR_BUTTON_TEXT: string = `[CLEAR BUTTON TEXT]`;
